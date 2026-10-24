@@ -49,7 +49,9 @@ the router, it is the realistic shape of a Tizen version of this repo: settings 
 DNS, rather than debloat plus a launcher.
 
 A port like that belongs in its own repository, with a row in [SHOWCASE.md](../../SHOWCASE.md), the
-same as the [webOS launcher](https://github.com/OmkarK97/webos-vibehack).
+same as the [webOS launcher](https://github.com/OmkarK97/webos-vibehack). For the settings half done by
+hand today, and for a Samsung set used only as a PC or Mac monitor, see
+[samsung-tizen-as-monitor.md](samsung-tizen-as-monitor.md).
 
 ## What this report does not establish
 

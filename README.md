@@ -81,7 +81,9 @@ phoning home, no apps you never asked for.
 Anything running **Android TV** or **Google TV**. Samsung (Tizen) and LG (webOS) run different
 systems; see [SHOWCASE.md](SHOWCASE.md) for a webOS port, and
 [docs/devices/samsung-tizen.md](docs/devices/samsung-tizen.md) for what a 2021 Samsung set answers
-over Wi-Fi (no ADB, so no `pm disable-user`) if you are weighing a Tizen port. **Fire TV** takes the
+over Wi-Fi (no ADB, so no `pm disable-user`) if you are weighing a Tizen port, and
+[docs/devices/samsung-tizen-as-monitor.md](docs/devices/samsung-tizen-as-monitor.md) for the settings sweep
+that makes a Samsung set behave as a plain HDMI monitor. **Fire TV** takes the
 debloat half only, since Fire OS will not hand Home to a third-party launcher - and on the 2015 Fire
 TV Box (Fire OS 5) even that half fails: every `pm` route is refused, so nothing can be disabled
 there at all. A few China-market TCL
